@@ -1,7 +1,7 @@
 # 221-final-template
 Contains HTML and CSS files for JNL 221's final project.  
   
-## Due by 6 p.m., Friday, 11/21: Follow the below directions to start your final project template. Remember to have index.html open in a browser to see your changes taking place. Use the reference sheet and Google as a resource.  
+## Due by 6 p.m., Friday, 11/20: Follow the below directions to start your final project template. Remember to have index.html open in a browser to see your changes taking place. Use the reference sheet and Google as a resource.  
 1. In the `head` of index.html, under the appropriate comment, add a `link` tag to connect your HTML file to the included CSS file, final.css.  
 2. In final.css, add styles for a `p` element: a `font-family` of 'Times New Roman' (with a default of serif), and a `font-size` of 20px. Look at the `style` section of the reference sheet to figure out how to add the `font-family` properly.  
 3. In index.html, give the first `section` element a class of 'header'.  
@@ -15,4 +15,4 @@ Contains HTML and CSS files for JNL 221's final project.
    
 TO DO in-class next time: In the head of index.html, under the appropriate comment, add the Google font 'Oswald' to your project. (We haven't learned how to do this so don't worry about it for homework. We will go over in our next class.)   
 
-To submit: Upload `index.html`, `final.css`, `newhouse.jpg` to your own repository in a /final/ folder. Like you did for the main `index.html`, insert the appropriate link for your index.html webpage into our 'github accounts' Google Doc: [https://docs.google.com/document/d/1cF2ixlanOldlhhlUwDCFF3ytJgSsXUSH5stX9LG4tTU/edit?usp=sharing](https://docs.google.com/document/d/1CmP7XytjO2nPxG-JKKxOLQEgRx8mFJgItNwgULLL-T0/edit?usp=sharing)
+To submit: Upload `index.html`, `final.css`, `newhouse.jpg` to your own repository in a /final/ folder. Like you did for the main `index.html`, insert the appropriate link for your index.html webpage into our 'github accounts' Google Doc: [https://docs.google.com/document/d/1cr1V3YMtm8zdv6jEexkVd7u7whl1Ark5iuI9goQr0Ok/edit?usp=sharing](https://docs.google.com/document/d/1cr1V3YMtm8zdv6jEexkVd7u7whl1Ark5iuI9goQr0Ok/edit?usp=sharing)
